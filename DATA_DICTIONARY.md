@@ -746,7 +746,7 @@ Numeric summary:
 | `CURRENT_TEAM_OUT_OF_POSSESSION_PREVIOUS_PHASE_TYPE` | `String` |  | 100.00 | 1 |  |  |
 | `DANGEROUS` | `Boolean` |  | 0.00 | 2 | False; True |  |
 | `DEFENSIVE_STRUCTURE` | `String` |  | 100.00 | 1 |  |  |
-| `DELTA_TO_LAST_DEFENSIVE_LINE_GAIN` | `Float64` | Depth/offset relative to last defensive line (see task.md for formula checks) | 0.00 | 4478 | 2.96; -11.37 |  |
+| `DELTA_TO_LAST_DEFENSIVE_LINE_GAIN` | `Float64` | Change in depth offset relative to the last defensive line during the run (positive = moving behind the line) | 0.00 | 4478 | 2.96; -11.37 |  |
 | `DIFFICULT_PASS_TARGET` | `Boolean` |  | 0.00 | 2 | False; True |  |
 | `DISTANCE_COVERED` | `Float64` | Distance covered during event (meters) | 0.00 | 5865 | 5.91; 16.03 |  |
 | `DURATION` | `Float64` | Event duration in seconds | 0.00 | 127 | 1.3; 3.1 |  |
